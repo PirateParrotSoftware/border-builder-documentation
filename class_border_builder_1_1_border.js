@@ -1,0 +1,25 @@
+var class_border_builder_1_1_border =
+[
+    [ "AddPoint", "class_border_builder_1_1_border.html#ad678fbca995ebff1fe07ecd78134565f", null ],
+    [ "ClearPoints", "class_border_builder_1_1_border.html#a465671bb0d4148ac3b37fd2728338b37", null ],
+    [ "GetOverlappingTriangle", "class_border_builder_1_1_border.html#a833ed967f40ca462ff263887386f2b10", null ],
+    [ "GetTriangulation", "class_border_builder_1_1_border.html#a6e1c65a6abced1ec19ff0810cb67d221", null ],
+    [ "InsertPoint", "class_border_builder_1_1_border.html#a20dd5e48da70e0d4d773a68c72697631", null ],
+    [ "IsPointInside", "class_border_builder_1_1_border.html#a52b929a6bd9a6dd7a264256b6fa8eec3", null ],
+    [ "Regenerate", "class_border_builder_1_1_border.html#a83f80a94e7c420e10c6f68256ad53063", null ],
+    [ "RemovePointAt", "class_border_builder_1_1_border.html#aeab7c2a4069ffc2fea9d8b27cbbfbad9", null ],
+    [ "SetPointPosition", "class_border_builder_1_1_border.html#ad3e012119815509d5f3fc2086e9639c7", null ],
+    [ "BorderColor", "class_border_builder_1_1_border.html#a092b9af020733387f4f114056c187c07", null ],
+    [ "BorderMaterial", "class_border_builder_1_1_border.html#a6c36b95ac0bbc018e70ff79e31c8c231", null ],
+    [ "BorderType", "class_border_builder_1_1_border.html#ab02c248fc52a42c6763ff9f5ef85227b", null ],
+    [ "CapGenerationMode", "class_border_builder_1_1_border.html#ac437b1110898f8711b2a204b1fe472ee", null ],
+    [ "Extent", "class_border_builder_1_1_border.html#a5d08c714c03afded4a1d989d43c2b879", null ],
+    [ "LowerCapColor", "class_border_builder_1_1_border.html#a367b082e19b5a97494c32baf40961e15", null ],
+    [ "LowerCapMaterial", "class_border_builder_1_1_border.html#a8884fbfbe822d74cfee8ca29545bf719", null ],
+    [ "LowerCapUVScale", "class_border_builder_1_1_border.html#a95d7d3124d7364c421324cf664ce8f37", null ],
+    [ "PointsCount", "class_border_builder_1_1_border.html#a7a3e56e4bb738a4d5f4bbf604da017e2", null ],
+    [ "this[int index]", "class_border_builder_1_1_border.html#a960c2b6e084e29ef78737cfd3bfb4dc1", null ],
+    [ "UpperCapColor", "class_border_builder_1_1_border.html#a225284c8b0de072d63846eb3b1f32787", null ],
+    [ "UpperCapMaterial", "class_border_builder_1_1_border.html#a9c67110f7b9257e1d0d1d07924539cc4", null ],
+    [ "UpperCapUVScale", "class_border_builder_1_1_border.html#a9083521dfccdb152c783da9cc6aa33ad", null ]
+];
